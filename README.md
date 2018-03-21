@@ -6,4 +6,4 @@ Prepare for final project in Applied Mathematics and Statistics
 - Step 2: Before running, modify the "demo_configuration" file
 - Step 3: Open terminal and run command
 
-> ./UberBot.sh demo_configuration
+	`./UberBot.sh demo_configuration`
