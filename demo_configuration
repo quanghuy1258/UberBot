@@ -1,0 +1,19 @@
+{
+  "SERVER_TOKEN": "",
+  "output_file": "",
+  "sleep_in_seconds": 0,
+  "target_routes": [
+    {
+      "start_latitude": 0,
+      "start_longitude": 0,
+      "end_latitude": 0,
+      "end_longitude": 0
+    },
+    {
+      "start_latitude": 0,
+      "start_longitude": 0,
+      "end_latitude": 0,
+      "end_longitude": 0
+    }
+  ]
+}
